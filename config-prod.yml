@@ -3,3 +3,5 @@ spring:
     name: springcloud-config-prod
   profiles:
     active: prod
+config:
+    info: master branch, springcloud-config/config-prod.yml version=2
